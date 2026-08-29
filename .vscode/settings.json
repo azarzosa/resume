@@ -1,0 +1,4 @@
+{
+  "latex-workshop.linting.chktex.enabled": true,
+  "latex-workshop.linting.chktex.exec.path": "chktex"
+}
